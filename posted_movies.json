@@ -330,5 +330,13 @@
     "language": "hi",
     "year": "2024",
     "date": "2026-07-17"
+  },
+  {
+    "id": 162,
+    "title": "Edward Scissorhands",
+    "rating": 7.7,
+    "language": "en",
+    "year": "1990",
+    "date": "2026-07-18"
   }
 ]
